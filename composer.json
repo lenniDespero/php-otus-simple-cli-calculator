@@ -1,0 +1,12 @@
+{
+  "name": "astepanov/otus-php-simple-cli-calc",
+  "description": "simple php-cli calc",
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Otus\\": "src/Otus"
+    }
+  }
+}
